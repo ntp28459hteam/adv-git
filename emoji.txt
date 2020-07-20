@@ -4,3 +4,4 @@ https://github.com/slashsBin/styleguide-git-commit-message
 :bug:
 :racehorse:
 :flushed:
+https://github.com/onmyway133/emoji
