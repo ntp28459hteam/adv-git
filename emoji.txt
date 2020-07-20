@@ -1,2 +1,5 @@
 \u1F633
 test2
+https://github.com/slashsBin/styleguide-git-commit-message
+:bug:
+:racehorse:
